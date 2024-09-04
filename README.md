@@ -1,4 +1,4 @@
-PhyloGene
+# PhyloGene
 PhyloGene is a bioinformatics tool designed to analyze and visualize phylogenetic relationships among genes. This tool enables researchers to explore evolutionary patterns and generate phylogenetic trees, providing insights into the evolutionary history of different gene sequences.
 
 Features
